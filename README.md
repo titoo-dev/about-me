@@ -1,3 +1,6 @@
+# Visit https://titoo-dev.github.io/about-me
+To see result of my work
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
