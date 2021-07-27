@@ -11,5 +11,8 @@ export function ContactSection () {
         <p className="flex justify-center text-lg text-amber-500 text-center max-w-lg mx-auto pt-8">
             <div className="mr-1 mt-1"><Iconly name="Call" primaryColor="orange"/></div> <span>(+261) 34 52 322 74</span>
         </p>
+<p className="flex justify-center text-lg text-amber-500 text-center max-w-lg mx-auto pt-8">
+            <span>RAZAFIMBELO Titosy Manankasina IGGLIA3</span>
+        </p>
     </div>
 }
